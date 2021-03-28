@@ -1,5 +1,5 @@
 import data from '../data/menu.json';
-import template from '../template/template.hbs';
+import template from '../templates/template.hbs';
 
 const Theme = {
   LIGHT: 'light-theme',
